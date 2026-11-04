@@ -1,0 +1,13 @@
+{
+ "name": "upload-example",
+ "version": "1.0.0",
+ "description": "File upload example",
+ "main": "index.js",
+ "scripts": {
+  "start": "node index.js"
+ },
+ "dependencies": {
+  "express": "^5.3.0",
+  "multer": "^2.5.0"
+ }
+}
